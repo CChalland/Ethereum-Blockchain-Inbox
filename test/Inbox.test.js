@@ -15,4 +15,4 @@ beforeEach(() => {
 
 describe('Inbox', () => {
     it('deploys a contract', () => {});
-})
+});
